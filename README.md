@@ -1,6 +1,6 @@
 
 
-### High Tech
+### What is this?
 High Tech is a fictional business I created a website for during the LA High Tech Coding Bootcamp 2.0 course.
 
 ### Scenario
